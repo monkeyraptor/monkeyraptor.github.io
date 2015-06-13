@@ -10,3 +10,5 @@ body{background:#eee;color:#222;}
 .ifrm_embed{height:880px;width:100%;border:0;}
 .centerText{text-align:center;}
 .cstm{font-size:2em;width:50%;background-color:#333;}.cstm:hover{background-color:royalblue;}
+.img_round{border-radius:8px;border:0;padding:0;}
+.small{width:150px;height:auto;}
